@@ -1,0 +1,2 @@
+Logical: PTLogical
+Parent: ExampleLogicalStructureDefinition
