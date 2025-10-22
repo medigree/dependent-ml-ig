@@ -5,7 +5,12 @@
 # 2021-06-18: publish default branches to / , other branches branches/<branch>
 # 2021-11-26: reusable workflow
 
-name: ghbuild
+name: GitHub Pages Build and Deploy
+
+permissions:
+  contents: write
+  pages: write
+  pull-requests: write
 
 # Controls when the action will run. 
 on:
@@ -20,4 +25,5 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   call_build: 
-    uses: WorldHealthOrganization/smart-base/.github/workflows/ghbuild.ymll@v1
+    uses: WorldHealthOrganization/smart-base/.github/workflows/ghbuild.yml@main
+    secrets: inherit
