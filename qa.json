@@ -1,0 +1,19 @@
+{
+  "url" : "http://example.org/ImplementationGuide/lang.dependent",
+  "name" : "dependentmlig",
+  "title" : null,
+  "description" : "",
+  "status" : "draft",
+  "package-id" : "lang.dependent",
+  "ig-ver" : "0.1.0",
+  "date" : "Wed, 22 Oct, 2025 16:36:02 +0000",
+  "dateISO8601" : "2025-10-22T16:36:02+00:00",
+  "errs" : 0,
+  "warnings" : 8,
+  "hints" : 3,
+  "suppressed-hints" : 0,
+  "suppressed-warnings" : 0,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 932243152
+}

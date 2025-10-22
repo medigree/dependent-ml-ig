@@ -1,0 +1,24 @@
+# lang.dependent#0.1.0: null(en)
+
+## Pages
+
+* [Home](index.md)
+* [Artifacts Summary](artifacts.md)
+
+## Resources
+
+### Logicals
+
+* [PTLogical](StructureDefinition-PTLogical.md)
+
+### Resource Profiles
+
+* [PTPatient](StructureDefinition-PTPatient.md)
+
+### ImplementationGuides
+
+* [dependentmlig](ImplementationGuide-lang.dependent.md)
+
+### Examples
+
+* [PatientExample (Patient)](Patient-PatientExample.md)

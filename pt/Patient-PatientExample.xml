@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Patient xmlns="http://hl7.org/fhir">
+  <id value="PatientExample"/>
+  <meta>
+    <profile value="http://example.org/StructureDefinition/PTPatient"/>
+  </meta>
+  <language value="pt"/>
+  <text>
+    <status value="generated"/><div xml:lang="pt" lang="pt"><hr/><p><b>Portuguese</b></p><hr/><p class="res-header-id"><b>Narrativa gerada: Patient PatientExample</b></p><a name="pt-PatientExample"> </a><a name="pt-hcPatientExample"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Língua: en</p><p style="margin-bottom: 0px">Perfil: <a href="StructureDefinition-PTPatient.html">PTPatient</a></p></div><p style="border: 1px #661aff solid; background-color: #e6e6ff; padding: 10px;">James Pond  (sem género declarado), DN Desconhecida ( 007)</p><hr/></div>
+  </text>
+  <identifier>
+    <value value="007"/>
+  </identifier>
+  <name>
+    <family value="Pond"/>
+    <given value="James"/>
+  </name>
+</Patient>

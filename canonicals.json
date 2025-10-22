@@ -1,0 +1,23 @@
+[
+  {
+    "id" : "lang.dependent",
+    "type" : "ImplementationGuide",
+    "url" : "http://example.org/ImplementationGuide/lang.dependent",
+    "version" : "0.1.0",
+    "name" : "dependentmlig"
+  },
+  {
+    "id" : "PTLogical",
+    "type" : "StructureDefinition",
+    "url" : "http://example.org/StructureDefinition/PTLogical",
+    "version" : "0.1.0",
+    "name" : "PTLogical"
+  },
+  {
+    "id" : "PTPatient",
+    "type" : "StructureDefinition",
+    "url" : "http://example.org/StructureDefinition/PTPatient",
+    "version" : "0.1.0",
+    "name" : "PTPatient"
+  }
+]

@@ -1,0 +1,97 @@
+dependentmlig : Validation Results
+=========================================
+
+err = 0, warn = 8, info = 3
+$--
+Generated $--. FHIR version $-- for lang.dependent#$-- (canonical = http://example.org)
+ Build Errors : 69 / 5 / 0
+ /work/fsh-generated/resources/ImplementationGuide-lang.dependent : 0 / 1 / 1
+ /work/fsh-generated/resources/Patient-PatientExample : 0 / 0 / 1
+ /work/fsh-generated/resources/StructureDefinition-PTLogical : 0 / 1 / 2
+ /work/fsh-generated/resources/StructureDefinition-PTPatient : 0 / 1 / 3
+</table>
+== n/a ==
+WARNING: Unable to find ImplementationGuide.definition.resource.description for the resource StructureDefinition/PTLogical.  Descriptions are strongly encouraged if they cannot be inferred from the resource to allow proper population of the artifact list.
+ERROR: en/Patient-PatientExample.change.history.html#/html/body/div/div/div/p/a at Line 207, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/Patient-PatientExample.html#/html/body/div/div/div/p/a at Line 221, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/Patient-PatientExample.json.html#/html/body/div/div/div/p/a at Line 248, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/Patient-PatientExample.xml.html#/html/body/div/div/div/p/a at Line 240, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical-definitions.html#/html/body/div/div/div/p/a at Line 331, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical-examples.html#/html/body/div/div/div/p/a at Line 261, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical-mappings.html#/html/body/div/div/div/p/a at Line 259, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical-testing.html#/html/body/div/div/div/p/a at Line 266, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical.html#/html/body/div/div/div/p/a at Line 705, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical.profile.history.html#/html/body/div/div/div/div/div/h2/div/div/div/p/a at Line 249, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical.profile.json.html#/html/body/div/div/div/p/a at Line 506, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTLogical.profile.xml.html#/html/body/div/div/div/p/a at Line 471, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient-definitions.html#/html/body/div/div/div/p/a at Line 574, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient-examples.html#/html/body/div/div/div/p/a at Line 282, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient-mappings.html#/html/body/div/div/div/p/a at Line 783, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient-testing.html#/html/body/div/div/div/p/a at Line 276, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient.html#/html/body/div/div/div/p/a at Line 2177, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient.profile.history.html#/html/body/div/div/div/div/div/h2/div/div/div/p/a at Line 259, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient.profile.json.html#/html/body/div/div/div/p/a at Line 2514, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/StructureDefinition-PTPatient.profile.xml.html#/html/body/div/div/div/p/a at Line 2355, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/artifacts.html#/html/body/div/div/div/p/a at Line 251, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/index.html#/html/body/div/div/div/p/a at Line 224, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: en/toc.html#/html/body/div/div/div/p/a at Line 171, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/Patient-PatientExample.change.history.html#/html/body/div/div/div/p/a at Line 207, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/Patient-PatientExample.html#/html/body/div/div/div/p/a at Line 221, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/Patient-PatientExample.json.html#/html/body/div/div/div/p/a at Line 248, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/Patient-PatientExample.xml.html#/html/body/div/div/div/p/a at Line 240, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical-definitions.html#/html/body/div/div/div/p/a at Line 331, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical-examples.html#/html/body/div/div/div/p/a at Line 261, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical-mappings.html#/html/body/div/div/div/p/a at Line 259, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical-testing.html#/html/body/div/div/div/p/a at Line 266, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical.html#/html/body/div/div/div/p/a at Line 713, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical.profile.history.html#/html/body/div/div/div/div/div/h2/div/div/div/p/a at Line 249, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical.profile.json.html#/html/body/div/div/div/p/a at Line 506, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTLogical.profile.xml.html#/html/body/div/div/div/p/a at Line 472, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient-definitions.html#/html/body/div/div/div/p/a at Line 574, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient-examples.html#/html/body/div/div/div/p/a at Line 282, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient-mappings.html#/html/body/div/div/div/p/a at Line 783, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient-testing.html#/html/body/div/div/div/p/a at Line 276, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient.html#/html/body/div/div/div/p/a at Line 2185, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient.profile.history.html#/html/body/div/div/div/div/div/h2/div/div/div/p/a at Line 259, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient.profile.json.html#/html/body/div/div/div/p/a at Line 2514, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/StructureDefinition-PTPatient.profile.xml.html#/html/body/div/div/div/p/a at Line 2355, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/artifacts.html#/html/body/div/div/div/p/a at Line 257, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/index.html#/html/body/div/div/div/p/a at Line 230, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: es/toc.html#/html/body/div/div/div/p/a at Line 177, column 24: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/Patient-PatientExample.change.history.html#/html/body/div/div/div/p/a at Line 207, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/Patient-PatientExample.html#/html/body/div/div/div/p/a at Line 221, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/Patient-PatientExample.json.html#/html/body/div/div/div/p/a at Line 248, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/Patient-PatientExample.xml.html#/html/body/div/div/div/p/a at Line 240, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical-definitions.html#/html/body/div/div/div/p/a at Line 331, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical-examples.html#/html/body/div/div/div/p/a at Line 261, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical-mappings.html#/html/body/div/div/div/p/a at Line 259, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical-testing.html#/html/body/div/div/div/p/a at Line 266, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical.html#/html/body/div/div/div/p/a at Line 713, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical.profile.history.html#/html/body/div/div/div/div/div/h2/div/div/div/p/a at Line 249, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical.profile.json.html#/html/body/div/div/div/p/a at Line 506, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTLogical.profile.xml.html#/html/body/div/div/div/p/a at Line 471, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient-definitions.html#/html/body/div/div/div/p/a at Line 574, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient-examples.html#/html/body/div/div/div/p/a at Line 282, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient-mappings.html#/html/body/div/div/div/p/a at Line 783, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient-testing.html#/html/body/div/div/div/p/a at Line 276, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient.html#/html/body/div/div/div/p/a at Line 2185, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient.profile.history.html#/html/body/div/div/div/div/div/h2/div/div/div/p/a at Line 259, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient.profile.json.html#/html/body/div/div/div/p/a at Line 2514, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/StructureDefinition-PTPatient.profile.xml.html#/html/body/div/div/div/p/a at Line 2355, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/artifacts.html#/html/body/div/div/div/p/a at Line 257, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/index.html#/html/body/div/div/div/p/a at Line 230, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+ERROR: pt/toc.html#/html/body/div/div/div/p/a at Line 177, column 23: The link 'http://example.org/example-publisher' for "Example Publisher" cannot be resolved
+WARNING: 1: An HTML fragment from the set [ip-statements.xhtml, ip-statements.xhtml, ip-statements.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml, cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml, cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml, dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml, dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: An HTML fragment from the set [globals-table.xhtml, globals-table.xhtml, globals-table.xhtml] is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-lang.dependent.json ==
+WARNING: ImplementationGuide/lang.dependent: ImplementationGuide: Constraint failed: ig-0: 'Name should be usable as an identifier for the module by machine processing applications such as code generation (name.matches('[A-Z]([A-Za-z0-9_]){0,254}'))'
+== fsh-generated/resources/Patient-PatientExample.json ==
+== fsh-generated/resources/StructureDefinition-PTLogical.json ==
+INFORMATION: StructureDefinition/PTLogical: StructureDefinition.snapshot.element[4].type[0].extension[1]: The extension http://hl7.org/fhir/StructureDefinition/regex|5.2.0 is deprecated with the note: 'This was deprecated in favor of using a constraint on the element using FHIRPath, since constraints allow for the provision of a human readable message associated with the regex'
+WARNING: StructureDefinition/PTLogical: StructureDefinition: The definition builds on 'http://hl7.org/fhir/test/multi-lang/StructureDefinition/LogicalExample' which is experimental, but this definition is not labeled as experimental
+== fsh-generated/resources/StructureDefinition-PTPatient.json ==
+INFORMATION: StructureDefinition/PTPatient: StructureDefinition.snapshot.element[4].binding.extension[0]: The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated
+INFORMATION: StructureDefinition/PTPatient: StructureDefinition.snapshot.element[9].extension[0].extension[2]: This element does not match any known slice defined in the profile http://hl7.org/fhir/StructureDefinition/obligation|5.2.0 (this may not be a problem, but you should check that it's not intended to match a slice)
+WARNING: StructureDefinition/PTPatient: StructureDefinition: The definition builds on 'http://hl7.org/fhir/test/multi-lang/StructureDefinition/example' which is experimental, but this definition is not labeled as experimental
